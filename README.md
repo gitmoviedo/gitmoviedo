@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gitmoviedo
+- 👋 Hi, I’m Miguel D. Oviedo -  @gitmoviedo
 - 👀 I’m interested and have extensive experience in full-stack development and project leading.
 - 🌱 I’m currently studying for a Master's in Artificial Intelligence and Data Science.
 - 💞️ I’m looking to collaborate on Application Development, Databases, Middleware, AI, Quantum Computing, Mathematical Finance.
